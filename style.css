@@ -155,3 +155,7 @@ width: 33%;
     padding: 10px 0;
     color: #fff;
 }
+@media screen and ( max-width:576px){
+  . main-container{
+     mini-width : 400px;}
+     }
